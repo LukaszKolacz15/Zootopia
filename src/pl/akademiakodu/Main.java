@@ -12,6 +12,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         HashMap<String, Barn> barnAnimalHashMap = new HashMap<>();
 
+//        Jakieś coś tam testowego w kodzie
+
+        System.out.println("Siemanko, jest to test githuba");
 
         do {
             menu();
