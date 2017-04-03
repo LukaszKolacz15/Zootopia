@@ -16,6 +16,10 @@ public class Main {
 
         System.out.println("Siemanko, jest to test githuba");
 
+//        Scond test
+
+        System.out.println("Kolejny test githuba");
+
         do {
             menu();
             int numb = scanner.nextInt();
